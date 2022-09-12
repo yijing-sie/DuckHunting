@@ -18,5 +18,8 @@ There are **4** features in this application:
 
 Below is the demonstration of running the game on the **Android Emulator**
 
-https://user-images.githubusercontent.com/84282744/189731757-8a45faba-e214-4069-b2cc-5faa757ebc39.mp4
+
+
+
+https://user-images.githubusercontent.com/84282744/189733122-302679e3-19bf-4feb-bf85-0413727c7f63.mp4
 
