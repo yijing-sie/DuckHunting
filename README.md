@@ -16,7 +16,7 @@ There are **4** features in this application:
 3. Users can **double tap** anywhere on the screen to launch a shooting at the point where the cannon barrel is pointing 
 4. When the duck is hit, a small **quack** sound is played; moreover, whenver users fire a bullet, a **gun shut** sound is played as well
 
-Below is the demonstration of running the game on the **Android Emulator**
+Below is the demonstration of running the game on the **Android Emulator** ( Turn on the sound :) )
 
 
 
