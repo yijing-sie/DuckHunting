@@ -14,7 +14,7 @@ There are **4** features in this application:
 1. The duck starts at a random height every time 
 2. Users can use a **single tap** or **swipe** the screen to change the angle of the cannon barrel
 3. Users can **double-tap** anywhere on the screen to launch a shooting at the point where the cannon barrel is pointing 
-4. When the duck is hit, a small **quack** sound is played; moreover, whenever users fire a bullet, a **gun shot** sound is played as well
+4. When the duck is hit, a small **quack** sound is played; moreover, whenever users fire a bullet, a **gunshot** sound is played as well
 
 Below is a demonstration of running the game on the **Android Emulator** ( Turn on the sound :) )
 
